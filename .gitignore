@@ -46,6 +46,7 @@ package-lock.json
 /backend-api/*.log
 /backend-api/*.vs/
 /backend-api/temp_build_out/
+/backend-api/*.lscache
 
 # Visual Studio temporary files
 *.ide
